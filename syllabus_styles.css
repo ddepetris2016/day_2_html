@@ -1,0 +1,15 @@
+ h1 {
+  color: red;
+  border-bottom: 5px blue solid;
+}
+h2 {
+  color: green;
+  border-top: 2px black solid;
+  border-bottom: 1px black solid;
+}
+.highlight {
+  background-color: yellow;
+}
+.important {
+  text-decoration: underline;
+}
